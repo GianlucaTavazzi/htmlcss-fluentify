@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header{
+    background-color: #0d325a
+}
+
+section{
+    background-color: #f9f9f9;
+}
+
+.top{
+    width:1200px;
+    margin: auto;
+    height: 100px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.bottom{
+    width: 1200px;
+    margin: auto;
+    height: 400px;
+    background-image: url(/bundles/fluentifypublic/images/r4b/01/xoldman.png.pagespeed.ic.dfg9F8pm_f.png);
+}
+
+.primo{
+    width: 15%;
+    float: left;
+    padding: 30px 0px;
+}
+
+.secondo{
+    width: 50%;
+    float: left;
+}
+
+.terzo{
+    width: 35%;
+    float: left;
+    text-align: right;
+}
+
+.secondo ul li{
+    display: inline-block;
+    line-height: 91px;
+    padding: 5px;
+}
+
+.secondo ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.terzo a{
+    line-height: 101px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.ciao{
+    color: rgba(255,255,255,.5);
+}
+
+.ciaone{
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 3px 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.ciaonee{
+    background-color: #7fb802;
+    border: 1px;
+    border-radius:3px;
+    padding: 4px 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.Titolo{
+    width: 600px;
+    height: 250px;
+    padding-top: 120px;
+    color: white;
+    font-size: 12px;
+}
+
+h1{
+    padding-bottom: 30px;
+    font-size: 45px;
+}
+
+/* prima fascia */
+
+.sezione{
+    width:1200px;
+    margin:auto;
+    color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+h2{
+    font-size: 24px;
+    margin-bottom:15px;
+}
+
+.sezione p{
+    font-size: 18px;
+    color: #999;
+}
+
+/* primo main */
+.pm{
+    width:1200px;
+    margin:auto;
+    height: 600px;
+}
+
+.box{
+    width:400px;
+    height: 600px;
+    float: left;
+}
+
+.immagine{
+    width:200px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.immagine img{
+    height:200px;
+    width:200px;
+}
+
+.titolo2{
+    width:400px;
+    text-align: center;
+    color: #7fb802;
+}
+
+.paragrafo{
+    width:400px;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #999;
+}
+
+#secondo .titolo2 h2{
+    margin-bottom: 43px;
+}
+
+hr{
+    width:50px;
+    margin: auto;
+}
+
+/* secondo main */
+
+.sm{
+    width:1200px;
+    margin:auto;
+    height: 500px;
+}
+
+.boxdue{
+    width:600px;
+    height: 500px;
+    float: left;
+}
+
+.immaginedue{
+    height:500px;
+    width: 500px;
+    margin-top: 57px;
+}
+
+.Livello{
+    width:500px;
+    margin-top: 160px;
+    float: right;
+    text-align: left;
+}
+
+#quinto .Livello h2{
+    color: #4a4a4a;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+#quinto .Livello p{
+    color:#999;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
